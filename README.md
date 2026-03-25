@@ -182,4 +182,4 @@ PUT /api/borrow/return/1
 ---
 
 ## 👨‍💻 Author
-Built as part of an internship project using Spring Boot and MySQL.
+Built this project to learn creating RestAPIs using Spring Boot and MySQL.
